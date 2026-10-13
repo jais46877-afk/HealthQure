@@ -1,0 +1,8 @@
+{
+  "name": "Quantum CHD Risk Predictor",
+  "description": "End-to-end Coronary Heart Disease risk prediction using PennyLane and PyTorch Quantum Support Vector Classifier (QSVC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
